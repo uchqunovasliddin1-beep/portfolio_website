@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 100px;
+    color: grey;
+}
+span{
+    width: 639.98px;
+    height: 328px;
+    border: 3px;
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.box{
+    font-family: sans-serif;
+}
+.box2 input{
+    width: 620px;
+    height: 44px;
+    left: 0.02px;
+    background-color: rgba(128, 128, 128, 0.3) ;
+    border: none;
+    top: 62px;
+}

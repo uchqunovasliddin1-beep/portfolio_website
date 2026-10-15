@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+img{
+    background-size: cover;
+    width: 1521px;
+    display: flex;
+}
